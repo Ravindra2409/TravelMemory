@@ -1,5 +1,5 @@
 pipeline {
-    agent any
+    agent { label 'RavindraB12MyLinuxagent' }
     stages {
         stage('Checkout') {
             steps {
