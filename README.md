@@ -11,6 +11,8 @@ Data format to be added:
 
 
 
+
+
 ```json
 {
     "tripName": "Incredible India",
